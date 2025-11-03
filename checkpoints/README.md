@@ -1,0 +1,1 @@
+# Checkpoints - Download model files from original FaceTracer
