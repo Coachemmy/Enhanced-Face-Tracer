@@ -1,6 +1,6 @@
 # Enhanced Face Tracer
 
-This repository contains an implementation and initial exploration of the **FaceTracer** system, based on the paper "FaceTracer: Unveiling Source Identity from Swapped Face Images and Videos for Fraud Prevention" (https://arxiv.org/abs/2401.08252), for my final-year project under Prof. Zhongqun Zhang.
+This repository contains an implementation and initial exploration of the **FaceTracer** system, based on the paper "FaceTracer: Unveiling Source Identity from Swapped Face Images and Videos for Fraud Prevention", for my final-year project under Prof. Zhongqun Zhang.
 
 The goal is to reproduce the core functionality of source identity tracing and explore potential improvements or applications, particularly in the context of fraud prevention.
 
