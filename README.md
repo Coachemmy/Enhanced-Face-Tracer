@@ -40,4 +40,3 @@ The goal is to reproduce the core functionality of source identity tracing and e
 ## Reference
 *   **Original Paper:** [FaceTracer: Unveiling Source Identity from Swapped Face Images and Videos for Fraud Prevention](https://arxiv.org/abs/2401.08252)
 *   **Original Repository:** [https://github.com/zzy224/FaceTracer](https://github.com/zzy224/FaceTracer)
-*   **Student Project:** Final-year project under Prof. Zhongqun Zhang, Nankai University.
