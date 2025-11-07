@@ -29,7 +29,7 @@ The goal is to reproduce the core functionality of source identity tracing and e
 ## Quick Start
 1.  **Clone this repository:**
     ```bash
-    git clone https://github.com/Coachemmy/Enhanced-Face-Tracer.git # Or your public link
+    git clone https://github.com/Coachemmy/Enhanced-Face-Tracer.git
     cd Enhanced-Face-Tracer
     ```
 2.  **Set up the environment:** Follow the requirements specified in the original FaceTracer repository or adapt based on your successful Colab setup. (e.g., `pip install -r requirements.txt` or install PyTorch, numpy, etc.)
